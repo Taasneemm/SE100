@@ -1,2 +1,2 @@
 # SE100
-Lesson 2
+A repository for SE100: Responsive Web Development
